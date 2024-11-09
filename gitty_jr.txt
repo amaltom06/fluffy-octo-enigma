@@ -3,3 +3,6 @@
 *git branch
 *git checkout -b "name" to create a branch
 *git switch -c "branch name" to switch between branches
+*git add -A
+*git commit
+*git push origin main
