@@ -1,0 +1,5 @@
+*on a project folder do git init 
+*git remote add origin hthttps://github.com/amaltom06/fluffy-octo-enigma.git - after creating the repo do this
+*git branch
+*git checkout -b "name" to create a branch
+*git switch -c "branch name" to switch between branches
